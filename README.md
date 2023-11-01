@@ -10,6 +10,4 @@ Remote run:
 
 npm install
 
-npm run type
-
-npm run dev (in other terminal)
+npm run dev 
